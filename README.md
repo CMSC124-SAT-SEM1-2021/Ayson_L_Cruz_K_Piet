@@ -1,12 +1,12 @@
-#Piet Language
->Piet was created by David Morgan-Mar between the 1990s - early 2000s as a language designed to look like abstract art, the idea was inspired by the Dutch painter and theoretician, Piet Mondrian.
+## Piet Language
+Piet was created by David Morgan-Mar between the 1990s - early 2000s as a language designed to look like abstract art, the idea was inspired by the Dutch painter and theoretician, Piet Mondrian.
 
 ## Links: 
 Editor: https://piet-editor.github.io/
 Compiler: https://www.bertnase.de/npiet/npiet-1.3a-win32.zip
->After extracting the zip file, click the npiet-start.bat to run the interpreter.
+After extracting the zip file, click the npiet-start.bat to run the interpreter.
 
-##Syntax
+## Syntax
 
 |  | Lightness change |
 |---|---|
@@ -21,4 +21,6 @@ Compiler: https://www.bertnase.de/npiet/npiet-1.3a-win32.zip
 ### References:
 Morgan-Mar, D. (n.d.). Piet. DM's Esoteric Programming Languages - Piet. Retrieved December 18, 2021, from https://www.dangermouse.net/esoteric/piet.html 
 NPIET - an interpreter and editor for the Piet programming language. (n.d.). Retrieved December 18, 2021, from https://www.bertnase.de/npiet/ 
+
+
 
