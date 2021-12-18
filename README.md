@@ -8,7 +8,7 @@ After extracting the zip file, click the npiet-start.bat to run the interpreter.
 
 ## Syntax
 
-|  | Lightness change |  |  |
+|  | Lightness change | Lightness change | Lightness change |
 |---|---|---|---|
 | Hue change | None | 1 Darker | 2 Darker |
 | None |  | push | pop |
