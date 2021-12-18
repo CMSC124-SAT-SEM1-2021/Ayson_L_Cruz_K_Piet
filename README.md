@@ -9,7 +9,7 @@ After extracting the zip file, click the npiet-start.bat to run the interpreter.
 ## Syntax
 
 |  | Lightness change |
-|---|---|---|---|
+|---|---|
 | Hue change | None | 1 Darker | 2 Darker |
 | None |  | push | pop |
 | 1 Step | add | subtract | multiply |
